@@ -23,6 +23,9 @@ app.use(cors());
 app.use('/api/auth', require('./routes/authRoutes'));
 app.use('/api/categories', require('./routes/categoryRoutes'));
 app.use('/api/expenses', require('./routes/expenseRoutes'));
+app.use('/api/budgets', require('./routes/budgetRoutes'));
+app.use('/api/savings', require('./routes/savingsRoutes'));
+app.use('/api/dashboard', require('./routes/dashboardRoutes'));
 
 // Health check route
 app.get('/', (req, res) => {
