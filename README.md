@@ -7,7 +7,6 @@ Track My Spends is a personal expense tracker designed to help users manage and 
 - Categorize expenses for better organization.
 - Visualize spending patterns using charts and graphs.
 - Filter and search transactions by date, category, or keywords.
-- Export expense data for backup or external analysis.
 - Responsive design for desktop and mobile devices.
 
 ## Requirements
@@ -60,7 +59,6 @@ Track My Spends can be customized and configured for your needs:
 - **Environment Variables:** Create a `.env` file in the project root and set variables such as database connection strings, port numbers, and authentication secrets.
 - **Database Settings:** Ensure MongoDB is running and accessible. Update the connection string in the `.env` file if necessary.
 - **Custom Categories:** Modify or extend default expense categories in the configuration or the database.
-- **Export Options:** Choose CSV, Excel, or PDF for exporting data based on your preferences.
 
 ## Contributing
 
