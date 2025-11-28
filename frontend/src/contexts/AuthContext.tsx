@@ -27,6 +27,7 @@ interface RegisterData {
   lastName: string;
   email: string;
   password: string;
+  confirmPassword: string;
   city: string;
   country: string;
   currency: string;

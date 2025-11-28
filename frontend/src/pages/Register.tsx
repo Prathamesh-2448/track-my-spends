@@ -34,8 +34,8 @@ const Register = () => {
 
     setIsLoading(true);
     try {
-      const { confirmPassword, ...userData } = formData;
-      await register(userData);
+
+      await register(formData);
       navigate('/dashboard');
     } catch (error) {
       // Error handled in context
