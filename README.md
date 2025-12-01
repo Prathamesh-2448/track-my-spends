@@ -1,4 +1,4 @@
-# Track My Spends [Access Here](http://3.80.80.227:5050/)
+# Track My Spends [Access Here](http://107.20.60.41:5050/)
 Track My Spends is a personal expense tracker designed to help users manage and analyze their spending habits efficiently. With an intuitive interface and robust features, it allows users to log expenses, categorize transactions, and gain insights through visualizations. This project is ideal for individuals seeking a simple yet powerful tool to monitor their financial activities.
 
 ## Features
